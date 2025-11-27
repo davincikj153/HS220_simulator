@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hyundai H220 Simulator",
+  "description": "A professional-grade 3D simulator for the Hyundai Robotics H220 6-axis industrial robot arm. Features Forward Kinematics control and Gemini-powered AI Copilot.",
+  "requestFramePermissions": []
+}
